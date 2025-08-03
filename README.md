@@ -51,9 +51,7 @@ The robot has a modular three-floor design:
 
 ## Wiring Diagram
 
-- `motor_wiring.png` – DC motors to L298N
-- `l298n_to_pi_gpio.png` – L298N to Raspberry Pi GPIO
-- `power_flow.png` – Power supply setup and distribution
+<img width="640" height="360" alt="BUILT THIS" src="https://github.com/user-attachments/assets/3aca4334-662c-4735-b3e1-43318b8df188" />
 
 ---
 
